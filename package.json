@@ -13,11 +13,12 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
     "@tensorflow-models/posenet": "^0.2.2",
     "@tensorflow/tfjs": "^0.12.4",
     "dat.gui": "^0.7.2",
-    "gsap": "^2.0.1"
+    "gsap": "^2.0.1",
+    "nuxt": "^1.0.0",
+    "stats-js": "^1.0.0-alpha1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
